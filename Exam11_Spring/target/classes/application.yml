@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate.ddl-auto: create-drop
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/exam11_db
+    username: springuser
+    password: ThePassword
+    driver-class-name: com.mysql.jdbc.Driver
+springdoc:
+  swagger-ui:
+    path: /api-page.html
+  api-docs:
+    path: /api-docs

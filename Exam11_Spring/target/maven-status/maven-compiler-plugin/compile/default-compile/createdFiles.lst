@@ -1,0 +1,9 @@
+be/intec/exam11/AppStarter.class
+be/intec/exam11/api/IMessageController.class
+be/intec/exam11/api/UserControllerImpl.class
+be/intec/exam11/api/IUserController.class
+be/intec/exam11/models/Message.class
+be/intec/exam11/models/User.class
+be/intec/exam11/api/MessageControllerImpl.class
+be/intec/exam11/repositories/IUserRepository.class
+be/intec/exam11/repositories/IMessageRepository.class
